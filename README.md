@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguya
 - 👀 I’m interested in making web applications !
 - 🌱 I’m currently learning python and django.
-- 💞️ I’m looking to collaborate on easier, yet cool web applications.
+- 💞️ I’m looking to collaborate on easy, yet cool web applications.
 - 📫 How to reach me ...
 
 <!---
